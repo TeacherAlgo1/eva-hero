@@ -1,0 +1,59 @@
+.aboba{
+    background:rgb(255, 135, 135);
+   text-align: center;
+}
+
+header{
+    justify-content: center; 
+}
+
+.biba{
+  display: flex;
+  flex-wrap: wrap;
+    justify-content: space-around;
+}
+article{
+    width: 200px;
+    background-color: rgb(255, 233, 233);
+    border: 5px solid rgb(255, 165, 165);
+    padding: 15px;
+    border-radius: 10px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    margin: 0 20px;
+}
+
+.dotted{
+    border: 5px dotted rgb(0, 0, 0);
+   padding: 5px;
+}
+
+.dashed{
+    border: 5px dashed rgb(0, 0, 0);
+   padding: 5px;
+   width:100 px;
+   height: 200px;
+}
+
+.solid{
+     border: 5px dashed rgb(0, 0, 0);
+   padding: 5px;
+   width:150px;
+   height: 200px;
+}
+
+.collapse{
+    border: 5px dotted rgb(0, 0, 0);
+    padding: 5px;
+   width:150px;
+   height: 200px;
+}
+
+footer{
+    background-color: aqua;
+}
